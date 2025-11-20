@@ -1,2 +1,114 @@
-# 01-testes-manuais-mercado-livre/
-Este projeto foi desenvolvido com o objetivo de demonstrar minhas habilidades em testes manuais, planejamento de testes, análise de requisitos e documentação detalhada. Escolhi o Mercado Livre como aplicação-alvo por ser uma plataforma real, ampla e rica em fluxos críticos, permitindo uma análise completa do comportamento do sistema.  O projeto simula um ciclo real de QA, incluindo criação de cenários, casos de teste, checklist, evidências e relatório de bugs.
+# 🧪 Projeto 01 — Testes Manuais: Mercado Livre
+
+## 📌 Descrição do Projeto
+Este projeto tem como objetivo demonstrar minhas habilidades em **testes manuais**, incluindo análise de requisitos, criação de casos de teste, checklist funcional, execução de cenários e documentação de bugs com evidências.
+
+O site escolhido foi o **Mercado Livre**, por ser uma plataforma grande, com múltiplos fluxos e funcionalidades que permitem avaliar diferentes comportamentos do usuário.
+
+---
+
+## 🎯 Objetivos
+- Analisar funcionalidades principais do site.
+- Criar casos de teste funcionais e de regressão.
+- Criar checklist de validação.
+- Executar os testes em ambiente real.
+- Registrar e documentar bugs com prints e detalhes técnicos.
+- Demonstrar raciocínio de QA Júnior e boas práticas de testes.
+
+---
+
+## 📁 Estrutura do Repositório
+📂 01-testes-manuais-mercado-livre/
+├── 📄 plano_de_teste.pdf
+├── 📄 casos_de_teste.xlsx
+├── 📄 checklist_funcional.xlsx
+├── 📄 relatorio_de_bugs.pdf
+└── 📄 README.md
+
+
+
+---
+
+## 🔍 Escopo de Funcionalidades Testadas
+- Página inicial  
+- Barra de busca  
+- Página de resultados  
+- Filtro de produtos  
+- Página de produto  
+- Adicionar ao carrinho  
+- Login (fluxo simples)  
+- Verificação visual e comportamental  
+
+---
+
+## 🧩 Tipos de Testes Realizados
+- Testes funcionais  
+- Testes exploratórios  
+- Testes de regressão  
+- Testes de interface (UI)  
+- Testes de usabilidade simples  
+
+---
+
+## 🐞 Relatórios de Bugs
+Todos os defeitos encontrados durante os testes foram documentados com:
+- título do bug  
+- severidade  
+- prioridade  
+- passos para reprodução  
+- resultado esperado  
+- resultado obtido  
+- prints  
+
+O documento está em: **relatorio_de_bugs.pdf**
+
+---
+
+## 📊 Casos de Teste
+Arquivo: **casos_de_teste.xlsx**
+
+Inclui:
+- ID  
+- Pré-condições  
+- Passos detalhados  
+- Dados de teste  
+- Resultado esperado  
+- Status da execução (Pass/Fail)  
+
+---
+
+## ✔ Checklist Funcional
+Arquivo: **checklist_funcional.xlsx**
+
+Inclui:
+- Elementos da interface  
+- Comportamentos  
+- Navegação  
+- Links e botões  
+- Formulários  
+- Mensagens de erro e sucesso  
+
+---
+
+## 🧠 Aprendizados do Projeto
+- Melhor compreensão do fluxo do usuário real.  
+- Criação estruturada de cenários de teste.  
+- Prática de escrita objetiva e organizada para QA.  
+- Desenvolvimento do olhar crítico para encontrar falhas.  
+- Documentação clara e profissional de bugs.  
+
+---
+
+## 🚀 Tecnologias e Ferramentas Utilizadas
+- Excel (Casos de Teste e Checklist)  
+- Google Docs / Word (Plano de Teste e Relatório)  
+- Snipping Tool / PrintScreen (prints de evidência)  
+- Navegadores: Chrome e Edge  
+
+---
+
+## 📬 Contato
+Caso queira saber mais sobre meus projetos ou trocar ideias sobre QA:
+
+**📧 E-mail:** josuelucena2019@gmail.com  
+**🔗 LinkedIn:** *coloque seu link aqui*  
