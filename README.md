@@ -1,4 +1,4 @@
-# 🧪 Projeto 01 — Testes Manuais: Mercado Livre
+# 🧪 Projeto — Testes Manuais: Mercado Livre
 
 ## 📌 Descrição do Projeto
 Este projeto tem como objetivo demonstrar minhas habilidades em **testes manuais**, incluindo análise de requisitos, criação de casos de teste, checklist funcional, execução de cenários e documentação de bugs com evidências.
