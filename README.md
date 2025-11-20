@@ -127,4 +127,4 @@ Inclui:
 Caso queira saber mais sobre meus projetos ou trocar ideias sobre QA:
 
 **📧 E-mail:** josuelucena2019@gmail.com  
-**🔗 LinkedIn:** *coloque seu link aqui*  
+**🔗 LinkedIn:** *https://www.linkedin.com/in/josue-lucena-844b64219*  
