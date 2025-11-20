@@ -18,15 +18,14 @@ O site escolhido foi o **Mercado Livre**, por ser uma plataforma grande, com mú
 ---
 
 ## 📁 Estrutura do Repositório
-"
-📂 01-testes-manuais-mercado-livre/
+
+"📂 01-testes-manuais-mercado-livre/
 ├── 📄 plano_de_teste.pdf
 ├── 📄 casos_de_teste.xlsx
 ├── 📄 checklist_funcional.xlsx
 ├── 📄 relatorio_de_bugs.pdf
-└── 📄 README.md
+└── 📄 README.md"
 
-"
 
 
 
